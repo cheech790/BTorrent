@@ -1,8 +1,8 @@
-βTorrent
+https://Torrent.NXL.INK//
 ========
-**[βTorrent]** is a fully-featured **[WebTorrent]** browser client written in HTML, JS and CSS
+**[Torrent.NXL.INK]** is a fully-featured **[IPFSWebTorrent]** browser client written in HTML, JS and CSS
 
-[![Join the chat at https://gitter.im/DiegoRBaquero/BTorrent](https://badges.gitter.im/DiegoRBaquero/BTorrent.svg)](https://gitter.im/DiegoRBaquero/BTorrent?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://chat.nxl.ink/Nextvid/Torrent.NXL.INK](https://kiwiirc.com/nextclient/#irc://irc.freenode.net/#nextvid,#nextvid_chitchat,#nextid_help)
 
 ### Features
 - [x] Informative GUI with easy sharing options
@@ -52,30 +52,25 @@ localStorage.removeItem('debug')
 ```
 
 ### Help βTorrent
-- **[Create a new issue](https://github.com/DiegoRBaquero/bTorrent/issues/new)** to report bugs or suggest new features
-- **[Send a PR](https://github.com/DiegoRBaquero/BTorrent/pull/new/master)** with your changes
+- **[Create a new issue](https://github.com/cheech790/Torrent.NXL.INK/issues/new)** to report bugs or suggest new features
+- **[Send a PR](https://github.com/cheech790/Torrent.NXL.INK/pull/new/master)** with your changes
 
 ### Thanks
-- [jasalo](https://github.com/jasalo) For the logo and favicon
-- [whitef0x0](https://github.com/whitef0x0) For cleanup and ng-file-upload and other ideas
+- [bostrot](mail::to:bruce@nextvid.io) For the logo and favicon
+- [raj](mail::to:raj@nextvid.io) For cleanup and ng-file-upload and other ideas
 
-### License
-MIT. Copyright (c) [Diego Rodríguez Baquero](https://diegorbaquero.com)
+## Licensing
 
-[βTorrent]: https://btorrent.xyz
+MIT. Copyright (c) [Nextvid International Ltd.](https://nextvid.io)
+
+The license for this project is defined in a separate document "LICENSE.txt"
+Nextvid's FOSS IPFS Torrent also contains the following code:
+
+- icu   - Copyright (c) 1991-2019 Unicode, Inc. All rights reserved. https://www.unicode.org/copyright.html.
+
+[Product]: https://Torrent.NXL.INK//
 [WebTorrent]: https://webtorrent.io
 [AngularJS]: https://angularjs.org/
-[Skeleton]: http://getskeleton.com/
-[Normalize.css]: https://necolas.github.io/normalize.css/
-[Moment.js]: http://momentjs.com/
-[ui-grid]: http://ui-grid.info/
-[pretty-bytes]: https://github.com/sindresorhus/pretty-bytes
-[ng-file-upload]: https://github.com/danialfarid/ng-file-upload
-[ng-notify]: https://github.com/matowens/ng-notify
-[Jade]: http://jade-lang.com/
-[CoffeeScript]: http://coffeescript.org/
-[Sass]: http://sass-lang.com/
-[Harp]: http://harpjs.com/
 [jsDelivr]: https://www.jsdelivr.com/
 [CloudFlare]: https://www.cloudflare.com/
 [nginx]: http://nginx.org/
