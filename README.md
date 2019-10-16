@@ -42,7 +42,7 @@ For nginx, use this conf:
 ```
 
 ### Enable Debugging
-Enable βTorrent (Debug logging) and WebTorrent (Logs logging) debug logs by running this in the developer console:
+Enable Torrent.NXL.INK (Debug logging) and WebTorrent (Logs logging) debug logs by running this in the developer console:
 ```js
 localStorage.debug = '*'
 ```
@@ -51,7 +51,7 @@ Disable by running this:
 localStorage.removeItem('debug')
 ```
 
-### Help βTorrent
+### Help Torrent.NXL.INK
 - **[Create a new issue](https://github.com/cheech790/Torrent.NXL.INK/issues/new)** to report bugs or suggest new features
 - **[Send a PR](https://github.com/cheech790/Torrent.NXL.INK/pull/new/master)** with your changes
 
