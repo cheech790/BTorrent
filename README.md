@@ -1,8 +1,8 @@
 https://torrent.nxl.ink/
 ========
-**[https://torrent.nxl.ink/]** is a fully-featured **[IPFSWebTorrent]** browser client written in HTML, JS and CSS
+**[Nextvids increadibly innovative torrent solution]** is a fully-featured **[IPFSWebTorrent]** browser client written in HTML, JS and CSS
 
-[![Join the chat here](https://irc.ovpn.to/Nextvid)
+[Join the chat here](https://irc.ovpn.to/Nextvid)
 
 ### Features
 - [x] Informative GUI with easy sharing options
